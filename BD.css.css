@@ -1,0 +1,96 @@
+#A1:hover{
+			width：50px;
+			height:50px;
+			transform:rotate(3deg);
+		}
+#A1{
+	border-radius:16px;z-index:1;
+}
+#A2:hover{
+			width：50px;
+			height:50px;
+			transform:rotate(3deg);
+		}
+#A2{
+	border-radius:16px;z-index:1;
+}
+#A3:hover{
+			width：50px;
+			height:50px;
+			transform:rotate(3deg);
+		}
+#A3{
+		border-radius:16px;
+		z-index:1;
+	}
+#A4:hover{
+			width：60px;
+			height:505px;
+			transform:rotate(3deg);
+			
+		}
+#A4{
+	position:relative; left:40px; top:100px;border-radius:16px;position:relative;z-index:1;
+}
+#A5:hover{
+			width：60px;
+			height:505px;
+			transform:rotate(3deg);
+			
+		}
+#A5{
+	position:relative; left:940px; top:100px;border-radius:16px;z-index:1;position:relative;z-index:1;
+}
+#A6:hover{
+			width：285px;
+			height:215px;
+			transform:rotate(3deg);
+			
+		}
+#A6{
+	position:relative; left:-500px; top:-350px;border-radius:16px;z-index:1;position:relative;z-index:1;
+}
+#A7:hover{
+			width：285px;
+			height:215px;
+			transform:rotate(3deg);
+		}
+#A7{
+	position:relative; left:-784px; top:-100px;border-radius:16px;z-index:1;position:relative;z-index:1;
+}
+#A8:hover{
+			width：285px;
+			height:215px;
+			transform:rotate(3deg);
+		}
+#A8{
+	position:relative; left:-1070px; top:160px;border-radius:16px;z-index:1;position:relative;z-index:1;
+}
+#A9:hover{
+			width：285px;
+			height:215px;
+			transform:rotate(3deg);
+		}
+#A9{
+	position:relative; left:-386px; top:-190px;border-radius:16px;z-index:1;
+}
+#A10:hover{
+			width：285px;
+			height:215px;
+			transform:rotate(3deg);
+		}
+#A10{
+
+}
+#AA1:hover{
+			width：285px;
+			height:215px;
+			transform:rotate(3deg);
+		}
+#AAA{
+	position:relative;
+	 left:0px; 
+	 top:0px;
+
+
+}
